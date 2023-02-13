@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="CreatureSimulation.World">
+    <Position X="7.25" Y="2.25" Width="2.75" />
+    <NestedTypes>
+      <Delegate Name="CreatureSimulation.World.PrintPlatform" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>World.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAgAAAAAAAAAQAAABAEAAI=</HashCode>
+      <FileName>World.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreatureSimulation.Creature">
+    <Position X="3.25" Y="1" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEYAAAAAAEAAAABQADAAECAQAAAAAQAAAAAA=</HashCode>
+      <FileName>Creature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreatureSimulation.Dragon">
+    <Position X="4.5" Y="6.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dragon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreatureSimulation.Gryphon">
+    <Position X="7.75" Y="6.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gryphon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreatureSimulation.Sasquatch">
+    <Position X="0.75" Y="6.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sasquatch.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
